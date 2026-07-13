@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"python.analysis.diagnosticSeverityOverrides": {
+			"reportMissingModuleSource": "none",
+			"reportShadowedImports": "none"
+		},
+		"circuitpython.board.version": null,
+		"python.analysis.extraPaths": [
+			"",
+			"/Users/Anton_Sadeghi/.vscode/extensions/joedevivo.vscode-circuitpython-0.2.0-darwin-x64/stubs",
+			"/Users/Anton_Sadeghi/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20260620/adafruit-circuitpython-bundle-py-20260620/lib"
+		]
+	}
+}
